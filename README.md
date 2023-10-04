@@ -1,18 +1,35 @@
-## Getting Started
+# Desafio proposto no curso de Java Básico da plataforma DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Simulação de Criação de Conta Bancária
 
-## Folder Structure
+Este projeto tem como objetivo criar uma simulação da criação de uma conta bancária com os seguintes requisitos:
 
-The workspace contains two folders by default, where:
+### Detalhes da Conta
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **Número da Conta:** Identificador único para a conta bancária.
+- **Agência:** Identificação da agência onde a conta está registrada.
+- **Nome do Cliente:** Nome completo do titular da conta.
+- **Saldo:** O saldo atual da conta.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Este desafio foi proposto no curso de Java Básico da plataforma DIO e visa demonstrar o entendimento e a aplicação dos conceitos básicos de programação em Java para criar uma estrutura de conta bancária simples.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Como Usar
 
-## Dependency Management
+Para utilizar esta simulação de criação de conta bancária, você pode seguir estas etapas:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Clone ou faça o download deste repositório para sua máquina local.
+
+2. Abra o projeto em sua IDE Java preferida.
+
+3. Compile e execute o código da conta bancária para começar a simulação.
+
+4. Siga as instruções fornecidas no programa para criar e gerenciar contas bancárias.
+
+Este projeto é uma ótima maneira de praticar seus conhecimentos em Java e entender como criar classes, objetos e métodos para manipular informações de contas bancárias.
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você deseja melhorar este projeto ou adicionar recursos adicionais, sinta-se à vontade para fazer um fork do repositório, fazer as alterações e enviar um pull request.
+
+
+
